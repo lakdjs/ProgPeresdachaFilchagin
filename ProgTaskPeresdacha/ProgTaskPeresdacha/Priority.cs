@@ -8,7 +8,7 @@ namespace ProgTaskPeresdacha
 {
     public enum Priority
     {
-        High = 1,
+        high = 1,
         mid = 2,
         low = 3
     }
